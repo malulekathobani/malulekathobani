@@ -1,19 +1,19 @@
-# Hi there, I'm Thobani! 👋
+# Hi there, I'm Thobani Maluleka! 👋
 
-I'm a geospatial enthusiast with an insatiable curiosity for the world around us, driven by the pursuit of knowledge and excellence. Currently, I'm a candidate for the Master of Science in Engineering at the University of Cape Town, under the supervision of Dr. Siphiwe Mphuthi.
+I'm a geospatial enthusiast with an insatiable curiosity for the world around us, driven by the pursuit of knowledge and excellence. Currently, I'm a candidate for the MSc in Engineering at the University of Cape Town.
 
 ## 🌍 About Me
 
 - 🎓 Bachelor's degree in Geomatics from the University of Cape Town.
-- 🔭 Research interests: Ground deformation monitoring, real-time DEM for precise geoid modelling, natural disaster susceptibility mapping using Sentinel-1/radar imagery, and InSAR time series analysis.
-- 🛠️ Experienced in: Photogrammetry, remote sensing, physical geodesy, GIS, land surveying, and cadastral surveying and law.
+- 🔭 Research interests: Geodetic Reference Frames, Earth Observation, InSAR time series, Deformation Monitoring, Susceptibility Mapping, Geospatial AI, Physical Geodesy.
+- 🛠️ Experienced in: Photogrammetry, Remote Sensing, Physical Geodesy, Geospatial AI, GIS, Land Surveying, and Cadastral Surveying and Law.
 - 🚧 Part of the engineering survey team for the 1-billion-rand N2 upgrade in KwaZulu-Natal.
 
 ## 🌱 Currently Learning
 
-- Advanced techniques in InSAR and DEM modelling.
-- Machine learning applications in geospatial sciences.
-- GNSS data processing and analysis.
+- Advanced techniques in InSAR time-series.
+- Geospatial Artificial Intelligence.
+- Advanced GNSS data processing and analysis.
 
 ## 👯 Looking to Collaborate On
 
@@ -22,16 +22,17 @@ I'm a geospatial enthusiast with an insatiable curiosity for the world around us
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: [Your Email Address](mailto:your.email@example.com)
+- LinkedIn: [@malulekathobani](https://www.linkedin.com/in/malulekathobani)
+- Email: [malulekathobani@outlook.com](mailto:malulekathobani@outlook.com)
 
 ## 📄 Recent Publications
 
-- [Title of Publication 1](link-to-publication-1)
-- [Title of Publication 2](link-to-publication-2)
+- [Assessing Ground Deformation Techniques in Midvaal, South Africa](https://dx.doi.org/10.13140/RG.2.2.28460.27520)
+- [InSAR Time-series and Machine Learning for Subsidence Monitoring and Susceptibility Mapping in Midvaal, South Africa](https://dx.doi.org/10.13140/RG.2.2.28460.27520)
 
 ## 💬 Ask Me About
 
+- Geodetic Reference Frames
 - Ground deformation monitoring using InSAR.
 - Real-time DEM and geoid modelling.
 - GIS applications in natural disaster management.
